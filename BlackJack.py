@@ -1,7 +1,7 @@
 import random
 import db
 from deck import initialize_deck, deal_card
-from game_logic import start_round, is_blackjack, dealer_play, calculate_value
+from Game_Logic import start_round, is_blackjack, dealer_play, calculate_value
 
 
 def display_title():
