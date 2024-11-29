@@ -2,6 +2,7 @@
 Project file structure
 
 BlackjackProject/
+
 │
 ├── main.py                # Main entry point for the game
 ├── deck.py                # Functions for deck creation and card management
