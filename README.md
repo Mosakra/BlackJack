@@ -7,7 +7,7 @@ BlackjackProject/
 ├── deck.py                # Functions for deck creation and card management
 ├── db.py                  # Manages player money storage and updates
 ├── Game_Logic.py          # Core gameplay mechanics and logic
-├── data/money.txt         # Persistent storage of the player's balance
+├── money.txt         # Persistent storage of the player's balance
 └── README.md              # Documentation
 
 main.py
